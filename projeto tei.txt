@@ -1,0 +1,2 @@
+player = input('Diga o seu nome: ')
+print('Um grupo de amigos (Alice, Pietro, Carmen, Júlio, Lucas e {}) vão a uma floresta para acampar por uma semana. Eles preparam suas malas e organizam as coisas.'.format(player))
